@@ -1,1 +1,2 @@
-//delivering results
+apiVersion: apps/v1
+kind: Deployment
